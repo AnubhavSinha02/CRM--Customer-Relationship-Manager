@@ -8,5 +8,5 @@ In this app,User can fetch the data from data base and they can update the custo
 
 Here, we have used Spring and Hibernate technology along with below mentioned specifictaions.
 
-Database : MySQL Workbench
+Database : MySQL Workbench  
 Server : Tomcat 9.0.31
